@@ -7,7 +7,7 @@ Set up a Qt development environment in a dev container
 
 ```json
 "features": {
-    "ghcr.io/zaval/feature-starter/qt:1": {
+    "ghcr.io/zaval/devcontainer-features/qt:1": {
         "version": "6.9.0",
         "modules": "qtbase,qtdeclarative"
     }
